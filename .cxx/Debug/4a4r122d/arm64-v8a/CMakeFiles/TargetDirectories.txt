@@ -1,0 +1,3 @@
+/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/.cxx/Debug/4a4r122d/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/.cxx/Debug/4a4r122d/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/.cxx/Debug/4a4r122d/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/build/intermediates/cxx/RelWithDebInfo/6h585o3g/obj/x86

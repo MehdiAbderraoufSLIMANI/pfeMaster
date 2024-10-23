@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/.cxx/Debug/4a4r122d/x86_64",
+  "command": "/Users/dido/Library/Android/sdk/ndk/26.2.11394342/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android28 --sysroot=/Users/dido/Library/Android/sdk/ndk/26.2.11394342/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/libcxx_helper/dummy.cpp",
+  "file": "/Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/libcxx_helper/dummy.cpp"
+}
+]

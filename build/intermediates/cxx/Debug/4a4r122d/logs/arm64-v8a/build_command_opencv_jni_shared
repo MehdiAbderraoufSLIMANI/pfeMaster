@@ -1,0 +1,4 @@
+/Users/dido/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/dido/Documents/la_fac/pfeDoc/OpenCV-android-sdk/sdk/.cxx/Debug/4a4r122d/arm64-v8a \
+  opencv_jni_shared
